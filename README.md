@@ -24,13 +24,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+![TipCalc gif](TipCalc Demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I accidentaly renamed a uiView element, and it took me 20 minutes to figure out why my app was crashing on start up.
 
 ## License
 
